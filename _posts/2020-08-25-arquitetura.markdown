@@ -4,9 +4,9 @@ title:  "Arquitetura de sistemas"
 date:   2020-08-26 12:40:34 -0300
 ---
 
-#Arquitetura de sistemas
+# Arquitetura de sistemas
 
-Requisitos não funcionais
+**Requisitos não funcionais**
 Desempenho
 Disponibilidade
 Escalabilidade
