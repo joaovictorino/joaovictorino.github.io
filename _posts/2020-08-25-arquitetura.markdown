@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Arquitetura de sistemas"
+title:  "Arquitetura de Sistemas"
 date:   2020-08-26 12:40:34 -0300
 ---
 
-# Arquitetura de sistemas
+# Arquitetura de Sistemas
 
 **Requisitos não funcionais**
-Desempenho
-Disponibilidade
-Escalabilidade
+Desempenho<br>
+Disponibilidade<br>
+Escalabilidade<br>
 Manutenibilidade
